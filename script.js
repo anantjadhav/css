@@ -1,1 +1,2 @@
-alert('hello world!');
+const li = document.querySelector('li');
+console.log(li);
